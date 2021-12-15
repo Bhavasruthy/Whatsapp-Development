@@ -2,3 +2,4 @@ This is whatsupcode:
 Author:Sruthy
 1.Profile page code
 2.chat screen code
+3.hiding last seen
